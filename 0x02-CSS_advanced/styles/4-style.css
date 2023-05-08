@@ -30,7 +30,7 @@ a {
     display: none;
 }
 .card-category {
-    color: var(--color-primary)
+    color: var(--color-primary);
 }
 .section-tagline {
     color: var(--color-primary);
